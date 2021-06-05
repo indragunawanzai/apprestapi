@@ -3,3 +3,4 @@ install JWT node.js
 - instal morgan => npm install morgan (untuk login request data http)
 - install ip => npm install ip (ip address local)
 - intall jwt => npm install jsonwebtoken
+- intall md5
